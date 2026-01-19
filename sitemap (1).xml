@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://girishbetter.github.io/ProjectPortfolio/</loc>
+  <lastmod>2026-01-10T03:07:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://girishbetter.github.io/ProjectPortfolio/index.html</loc>
+  <lastmod>2026-01-10T03:07:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://girishbetter.github.io/ProjectPortfolio/assets/files/Web_development_resume_Final.pdf</loc>
+  <lastmod>2026-01-10T03:07:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
